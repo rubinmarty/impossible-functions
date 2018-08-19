@@ -1,6 +1,6 @@
 # impossible-functions
 
-A guide to doing some pretty some pretty impossible looking stuff in Python, based off of [this](http://math.andrej.com/2007/09/28/seemingly-impossible-functional-programs/) article by Martin Escardo.
+A guide to doing some pretty impossible looking stuff in Python, based off of [this](http://math.andrej.com/2007/09/28/seemingly-impossible-functional-programs/) article by Martin Escardo.
 
 I highly recommend just reading that link instead of this, though if you have trouble with the Haskell, this repo is intended as a more introductory version written in Python.
 
