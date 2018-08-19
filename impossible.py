@@ -40,14 +40,6 @@ def search(pred):
         return find(pred)
     return None
 
-def pred(cantor):
-    import math
-    pi_str = str(math.pi)
-    for i in range(10):
-        if cantor[i] != bool(int(pi_str[i+2]) % 2):
-            return False
-    return True
-
 def equal(pred1, pred2):
     def pred3(cantor):
         return pred1(cantor) == pred2(cantor)
